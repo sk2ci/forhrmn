@@ -1,0 +1,31 @@
+{
+  "name": "auth-remastered",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pablopunk/geo-ip": "^1.0.0",
+    "atlas": "^1.0.0-alpha.0",
+    "axios": "^0.27.2",
+    "better-sqlite3": "^7.6.2",
+    "body-parser": "^1.20.0",
+    "connect-mongo": "^4.6.0",
+    "discord-oauth2": "^2.10.0",
+    "discord.js": "^13.8.1",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "form-data": "^4.0.0",
+    "ip-to-location": "^1.0.1",
+    "mongoose": "^6.5.4",
+    "mongosh": "^1.6.1",
+    "node-fetch": "^3.2.10",
+    "passport": "^0.6.0",
+    "passport-discord": "^0.1.4",
+    "quick.db": "^9.0.6"
+  }
+}
